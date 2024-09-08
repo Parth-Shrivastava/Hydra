@@ -1,1 +1,1 @@
-[SIH2024_IDEA_Presentation_Format.pptx](https://github.com/user-attachments/files/16920308/SIH2024_IDEA_Presentation_Format.pptx)
+The code given is meant to be run in Google Colab. Model is already trained SO in third cell changing the name of image file "parkingareapng" with any other provided or self edited photo can make run various amounts of different Scenarios.
